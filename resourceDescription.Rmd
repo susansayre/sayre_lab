@@ -1,0 +1,22 @@
+---
+title: "Possible resources"
+author: "Susan Sayre"
+date: "9/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# List of Resources to Investigate
+
+## Reading articles, lit reviews
+
+* One example link on a blog that includes a number of valuable resources for reading and writing about journal articles <http://www.raulpacheco.org/2015/08/online-resources-to-help-students-summarize-journal-articles-and-write-critical-reviews/> 
+
+## Using git
+
+## Using R
+
+
