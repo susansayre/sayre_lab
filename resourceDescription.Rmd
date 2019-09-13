@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * One example link on a blog that includes a number of valuable resources for reading and writing about journal articles <http://www.raulpacheco.org/2015/08/online-resources-to-help-students-summarize-journal-articles-and-write-critical-reviews/> 
 
 ## Using git
+Grant McDermott's git lecture slides from his data science course. The best way to get these is to clone the repository available at https://github.com/uo-ec607/lectures.
 
 ## Using R
 
