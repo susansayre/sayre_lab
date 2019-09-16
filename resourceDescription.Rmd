@@ -31,6 +31,9 @@ Some sources for learning more about git and github are:
 * GitHub guides, such as their [Hello World Guide](https://guides.github.com/activities/hello-world/) and their [Git Handbook](https://guides.github.com/introduction/git-handbook/) guide. 
 * The DataCamp [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) Course, which is very-in depth in terms of using git, but does not cover using GitHub. 
 
+
+Note: If you have set up two-factor authentification with GitHub (i.e. Duo) you will need to use a personal access token instead of your password when using Git on the command line. See the GitHub help page here: https://help.github.com/en/articles/accessing-github-using-two-factor-authentication
+
 ## Using R
 
 ## General coding tips
