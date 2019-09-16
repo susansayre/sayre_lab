@@ -16,7 +16,23 @@ knitr::opts_chunk$set(echo = TRUE)
 * One example link on a blog that includes a number of valuable resources for reading and writing about journal articles <http://www.raulpacheco.org/2015/08/online-resources-to-help-students-summarize-journal-articles-and-write-critical-reviews/> 
 
 ## Using git
-Grant McDermott's git lecture slides from his data science course. The best way to get these is to clone the repository available at https://github.com/uo-ec607/lectures.
+
+1. Create a GitHub account [here](https://github.com/)
+2. Download and install Git for your operating system [here](https://git-scm.com/downloads)
+3. Start using Git with the command line using [this tutorial](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) which walks you through:
+  + Connecting your desktop Git to your GitHub account.
+  + How to clone repositories to your desktop.
+  + How to add and commit changes.
+4. Clone the carbonTaxIncidence and sayreLab repositories to your computer. Professor Stratton-Sayre's GitHub account (and the https links to clone the repositories) can be found [here](https://github.com/susansayre).
+
+Some sources for learning more about git and github are: 
+
+* Grant McDermott's git lecture slides from his data science course. The best way to get these is to clone the repository available at https://github.com/uo-ec607/lectures.
+* GitHub guides, such as their [Hello World Guide](https://guides.github.com/activities/hello-world/) and their [Git Handbook](https://guides.github.com/introduction/git-handbook/) guide. 
+* The DataCamp [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) Course, which is very-in depth in terms of using git, but does not cover using GitHub. 
+
+
+Note: If you have set up two-factor authentification with GitHub (i.e. Duo) you will need to use a personal access token instead of your password when using Git on the command line. See the GitHub help page here: https://help.github.com/en/articles/accessing-github-using-two-factor-authentication
 
 ## Using R
 ### writing packages
@@ -29,4 +45,6 @@ https://ropenscilabs.github.io/drake-manual/
 
 Coding_For_Econs_20190221.pdf
 
+
+This is a test change
 
